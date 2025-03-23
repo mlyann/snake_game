@@ -1,6 +1,6 @@
 # Snake Game
 
-A simple Snake game implemented using Python and Pygame. This project demonstrates a clean, modular structure by separating the game logic into multiple files and organizing code within a `src` folder and external assets in an `assets` folder.
+A simple Snake game implemented using Python and Pygame. This project demonstrates a clean, modular structure by separating the game logic into multiple files and organizing code within a `src` folder.
 
 ## Project Structure
 
